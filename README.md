@@ -1,2 +1,2 @@
 # 000_GPIO
-HAL Layer for GPIO
+GPIO programming using Direct Register Access
